@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="229" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/app/store.js" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="342" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/index.js" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="317" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/features/counter/Counter.js" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="211" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/App.js" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1358" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/features/counter/Counter.module.css" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="527" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/features/counter/Counter2.js" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="170" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/features/counter/counterSlice.js" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
